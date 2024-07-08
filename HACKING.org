@@ -1,0 +1,15 @@
+#+TITLE: 開発者向け情報
+
+* 概要
+この文書はこのリポジトリに含まれるRプログラムについて説明しています。
+このリポジトリに含まれているRスクリプトは、サブディレクトリ
+=R/=
+に保存されています。各スクリプトで以下のRパッケージを用いています。
+- =tidyverse= 2.0.0以上
+
+* =data2table.csv=
+CSVデータをOrg Modeの表に変換します。
+実行コマンド:
+#+begin_src shell
+Rscript --vanilla R/data2table.R data.csv
+#+end_src
