@@ -14,4 +14,19 @@
 * リスト
 | 標高(m) | 名称 | 都道府県 | 所在地 | 備考 |
 |--------+------+--------+--------+-----|
+| 1743 | [[https://www.princehotels.co.jp/manza-kogen/][万座高原ホテル]] | 群馬 | [[https://maps.gsi.go.jp/#11/36.637175/138.507955/][36.637175,138.507955]] |  |
+| 1578 | [[https://www.cocoro-toujikan.com/][大台ケ原心・湯治館]] | 奈良 | [[https://maps.gsi.go.jp/#11/34.181036/136.098103/][34.181036,136.098103]] |  |
+| 1141 | [[https://wasamata-hutte.com/][WASAMATA HUTTE]] | 奈良 | [[https://maps.gsi.go.jp/#11/34.217956/135.986056/][34.217956,135.986056]] |  |
+| 1542 | [[https://suireikan.com/%e7%a8%b2%e6%9d%91%e3%83%b6%e5%b2%b3%e5%b1%b1%e8%8d%98/][稲村ヶ岳山荘]] | 奈良 | [[https://maps.gsi.go.jp/#11/34.244819/135.921597/][34.244819,135.921597]] |  |
+| 1300 | [[https://ffagus.net/][ファガスの森 高城]] | 徳島 | [[https://maps.gsi.go.jp/#11/33.904541/134.232689/][33.904541,134.232689]] |  |
+| 1459 | [[https://tsurugi-laforet.jp/][ラ・フォーレつるぎ山]] | 徳島 | [[https://maps.gsi.go.jp/#11/33.873412/134.076700/][33.873412,134.076700]] |  |
+| 1861 | [[https://www.city.mima.lg.jp/kanko/map/list/4042.html][一の森ヒュッテ]] | 徳島 | [[https://maps.gsi.go.jp/#11/33.852459/134.110973/][33.852459,134.110973]] |  |
+| 1935 | [[https://tsurugisan-hutte.com/][剣山頂上ヒュッテ]] | 徳島 | [[https://maps.gsi.go.jp/#11/33.855137/134.096177/][33.855137,134.096177]] |  |
+| 1392 | [[https://www.awanavi.jp/archives/spot/1742][民宿まつうら]] | 徳島 | [[https://maps.gsi.go.jp/#11/33.867928/134.089568/][33.867928,134.089568]] |  |
+| 1357 | [[https://village-tengu.com/][星ふるヴィレッジTENGU]] | 高知 | [[https://maps.gsi.go.jp/#11/33.477027/133.004264/][33.477027,133.004264]] |  |
 | 1284 | [[https://www.kajigamori.com/][山荘梶ヶ森]] | 高知 | [[https://maps.gsi.go.jp/#11/33.758884/133.762124/][33.758884,133.762124]] |  |
+| 1402 | [[https://sansoshirasa.com/][山荘しらさ]] | 高知 | [[https://maps.gsi.go.jp/#11/33.769308/133.183479/][33.769308,133.183479]] |  |
+| 1506 | [[https://ishizuchikanko.com/shiraishilodge/][土小屋白石ロッジ]] | 愛媛 | [[https://maps.gsi.go.jp/#11/33.754798/133.147829/][33.754798,133.147829]] |  |
+| 1486 | [[https://ishizuchikanko.com/ishizuchi_hotel/][国民宿舎石鎚]] | 愛媛 | [[https://maps.gsi.go.jp/#11/33.757562/133.144266/][33.757562,133.144266]] |  |
+| 1404 | [[https://ishizuchikanko.com/shiraishi_joujusha/][常住屋白石旅館]] | 愛媛 | [[https://maps.gsi.go.jp/#11/33.790030/133.129162/][33.790030,133.129162]] |  |
+| 1963 | [[https://sanso.ishizuchisan.jp/][石鎚神社頂上山荘]] | 愛媛 | [[https://maps.gsi.go.jp/#11/33.769065/133.113465/][33.769065,133.113465]] |  |
