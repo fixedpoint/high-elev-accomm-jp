@@ -15,6 +15,43 @@
 | 標高(m) | 名称 | 都道府県 | 所在地 | 備考 |
 |--------+------+--------+--------+-----|
 | 1743 | [[https://www.princehotels.co.jp/manza-kogen/][万座高原ホテル]] | 群馬 | [[https://maps.gsi.go.jp/#11/36.637175/138.507955/][36.637175,138.507955]] |  |
+| 2280 | [[https://www.sugorokugoya.com/kagami/][鏡平山荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.345826/137.603848/][36.345826,137.603848]] |  |
+| 2548 | [[https://www.sugorokugoya.com/sugoroku/][双六小屋]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.369495/137.601625/][36.369495,137.601625]] |  |
+| 1099 | [[https://www.hotel-hotaka.jp/][ホテル穂高]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.285137/137.574947/][36.285137,137.574947]] |  |
+| 1130 | [[https://www.nakaodaira.co.jp/][中尾平]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.258855/137.573412/][36.258855,137.573412]] |  |
+| 1122 | [[http://www.okuhi-loghouse.com/][貸別荘 奥飛ログハウス]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.259336/137.572576/][36.259336,137.572576]] |  |
+| 1100 | [[http://yakedake.com/][旅館 焼岳の里]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.261149/137.571541/][36.261149,137.571541]] |  |
+| 1035 | [[http://shinzansou.com/][深山荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.277872/137.571315/][36.277872,137.571315]] |  |
+| 1110 | [[https://nono87.jp/][野の花山荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.270033/137.571300/][36.270033,137.571300]] |  |
+| 1089 | [[http://www.yakenoyu.com/][旅館 焼乃湯]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.262134/137.571137/][36.262134,137.571137]] |  |
+| 1078 | [[https://www.okuhida.com/][麓庵 民宿たきざわ]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.263162/137.570480/][36.263162,137.570480]] |  |
+| 1089 | [[https://www.syakujyo.com/][山荘 錫杖]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.261891/137.569483/][36.261891,137.569483]] |  |
+| 1093 | [[https://www.okuhida-uchino.com/][うちのペンション]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.261486/137.569464/][36.261486,137.569464]] |  |
+| 1080 | [[https://www.okuhida-jodel.com/][ペンションヨーデル]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.263064/137.569088/][36.263064,137.569088]] |  |
+| 1083 | [[https://www.yamanoyu-nakao.com/][ペンション山の湯]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.262204/137.568692/][36.262204,137.568692]] |  |
+| 1077 | [[https://okuhida-mahoroba.com/][まほろば]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.262991/137.568571/][36.262991,137.568571]] |  |
+| 1072 | [[https://okuhida.jp/][なかしま館]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.263519/137.568241/][36.263519,137.568241]] |  |
+| 1068 | [[https://osanpo-biyori.com/][ゆ宿 おさんぽ日和]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.264238/137.567888/][36.264238,137.567888]] |  |
+| 1071 | [[https://www.taniryokan.com/][谷旅館]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.263552/137.567830/][36.263552,137.567830]] |  |
+| 1067 | [[https://www.yume-sma.com/sharehotaka/][シャーレ穂高]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.263971/137.567790/][36.263971,137.567790]] |  |
+| 1059 | [[https://www.nakao-hutte.com/][中尾高原ヒュッテ]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.264729/137.567210/][36.264729,137.567210]] |  |
+| 1050 | [[http://kamitakarasou.com/][お宿かみたから荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.264921/137.566187/][36.264921,137.566187]] |  |
+| 1048 | [[https://honomitei.com/][ペンションほのみ亭]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.264502/137.565873/][36.264502,137.565873]] |  |
+| 1053 | [[https://www.tirorian.jp/][リゾートイン ちろり庵]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.263862/137.565590/][36.263862,137.565590]] |  |
+| 1044 | [[https://nakaokogenhotelkazagurumakazeyagroup.jphotel.site/][中尾高原ホテル 風車]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.263922/137.564467/][36.263922,137.564467]] |  |
+| 2810 | [[https://kasagatake.com/][笠ヶ岳山荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.317866/137.551307/][36.317866,137.551307]] |  |
+| 2900 | [[https://mitsumatasanso.com/suisho/][水晶小屋]] | 富山 | [[https://maps.gsi.go.jp/#11/36.419639/137.608401/][36.419639,137.608401]] |  |
+| 2545 | [[https://mitsumatasanso.com/mitsumata/][三俣山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.395267/137.596896/][36.395267,137.596896]] |  |
+| 2123 | [[https://ltaro.com/lodge/takamagahara-sansou/][高天原山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.440050/137.583239/][36.440050,137.583239]] |  |
+| 2551 | [[https://kumonodaira.com/][雲ノ平山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.420605/137.576541/][36.420605,137.576541]] |  |
+| 2342 | [[https://www.sugorokugoya.com/kurobe/][黒部五郎小舎]] | 富山 | [[https://maps.gsi.go.jp/#11/36.389636/137.565716/][36.389636,137.565716]] |  |
+| 1917 | [[https://ltaro.com/lodge/yakushizawa-goya/][薬師沢小屋]] | 富山 | [[https://maps.gsi.go.jp/#11/36.428588/137.546291/][36.428588,137.546291]] |  |
+| 2690 | [[http://www.yakushidake-sansou.com/][薬師岳山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.460818/137.536581/][36.460818,137.536581]] |  |
+| 2328 | [[https://ltaro.com/lodge/tarodaira-goya/][太郎平小屋]] | 富山 | [[https://maps.gsi.go.jp/#11/36.448838/137.516486/][36.448838,137.516486]] |  |
+| 1131 | [[http://www.arimine.net/lodging.html][有峰ハウス]] | 富山 | [[https://maps.gsi.go.jp/#11/36.490796/137.454896/][36.490796,137.454896]] |  |
+| 2076 | [[https://city-hakusan.com/hakusan/naryusanso/][南竜山荘]] | 石川 | [[https://maps.gsi.go.jp/#11/36.135826/136.772899/][36.135826,136.772899]] |  |
+| 2445 | [[https://hakusan-guide.or.jp/hakusan_stay/murodou][白山室堂]] | 石川 | [[https://maps.gsi.go.jp/#11/36.148997/136.767858/][36.148997,136.767858]] |  |
+| 2441 | [[https://hakusan-guide.or.jp/hakusan_stay/hakusan_raicyousou][白山雷鳥荘]] | 石川 | [[https://maps.gsi.go.jp/#11/36.149334/136.767208/][36.149334,136.767208]] |  |
 | 1578 | [[https://www.cocoro-toujikan.com/][大台ケ原心・湯治館]] | 奈良 | [[https://maps.gsi.go.jp/#11/34.181036/136.098103/][34.181036,136.098103]] |  |
 | 1141 | [[https://wasamata-hutte.com/][WASAMATA HUTTE]] | 奈良 | [[https://maps.gsi.go.jp/#11/34.217956/135.986056/][34.217956,135.986056]] |  |
 | 1542 | [[https://suireikan.com/%e7%a8%b2%e6%9d%91%e3%83%b6%e5%b2%b3%e5%b1%b1%e8%8d%98/][稲村ヶ岳山荘]] | 奈良 | [[https://maps.gsi.go.jp/#11/34.244819/135.921597/][34.244819,135.921597]] |  |
