@@ -40,6 +40,14 @@
 | 1053 | [[https://www.tirorian.jp/][リゾートイン ちろり庵]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.263862/137.565590/][36.263862,137.565590]] |  |
 | 1044 | [[https://nakaokogenhotelkazagurumakazeyagroup.jphotel.site/][中尾高原ホテル 風車]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.263922/137.564467/][36.263922,137.564467]] |  |
 | 2810 | [[https://kasagatake.com/][笠ヶ岳山荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.317866/137.551307/][36.317866,137.551307]] |  |
+| 1004 | [[https://hida-takane.com/shichihokan/][塩沢温泉七峰館]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.037728/137.488758/][36.037728,137.488758]] |  |
+| 1128 | [[http://www.hidatakayama.ne.jp/siosawa/][民宿塩沢山荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.053416/137.485328/][36.053416,137.485328]] |  |
+| 1775 | [[https://yumotokann.com/][濁河温泉 湯元館]] | 岐阜 | [[https://maps.gsi.go.jp/#11/35.923348/137.449656/][35.923348,137.449656]] |  |
+| 1766 | [[https://hpdsp.jp/nigorigolodge/][原生林の秘湯 濁河温泉ロッジ]] | 岐阜 | [[https://maps.gsi.go.jp/#11/35.923718/137.449139/][35.923718,137.449139]] |  |
+| 1771 | [[https://yu-meguri.jp/yunotanisou/][湯の谷荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/35.923232/137.449038/][35.923232,137.449038]] |  |
+| 1767 | [[https://asahisou.com/][濁河温泉 朝日荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/35.923442/137.448988/][35.923442,137.448988]] |  |
+| 1019 | [[https://hyotenkanomori.net/][秋神温泉旅館]] | 岐阜 | [[https://maps.gsi.go.jp/#11/35.986029/137.401419/][35.986029,137.401419]] |  |
+| 1233 | [[http://yesno-jp.com/][YES・NO]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.002431/137.359890/][36.002431,137.359890]] |  |
 | 2900 | [[https://mitsumatasanso.com/suisho/][水晶小屋]] | 富山 | [[https://maps.gsi.go.jp/#11/36.419639/137.608401/][36.419639,137.608401]] |  |
 | 2545 | [[https://mitsumatasanso.com/mitsumata/][三俣山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.395267/137.596896/][36.395267,137.596896]] |  |
 | 2123 | [[https://ltaro.com/lodge/takamagahara-sansou/][高天原山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.440050/137.583239/][36.440050,137.583239]] |  |
