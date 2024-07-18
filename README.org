@@ -15,6 +15,13 @@
 | 標高(m) | 名称 | 都道府県 | 所在地 | 備考 |
 |--------+------+--------+--------+-----|
 | 1743 | [[https://www.princehotels.co.jp/manza-kogen/][万座高原ホテル]] | 群馬 | [[https://maps.gsi.go.jp/#11/36.637175/138.507955/][36.637175,138.507955]] |  |
+| 2376 | [[https://www.hakuba-sanso.co.jp/yamagoya/hakubaooikesanso.html][白馬大池山荘]] | 長野 | [[https://maps.gsi.go.jp/#11/36.786510/137.795203/][36.786510,137.795203]] |  |
+| 2625 | [[http://karamatsu.jp/][唐松岳頂上山荘]] | 長野 | [[https://maps.gsi.go.jp/#11/36.685368/137.759193/][36.685368,137.759193]] |  |
+| 2828 | [[https://www.hakuba-sanso.co.jp/yamagoya/hakubasanso.html][白馬山荘]] | 長野 | [[https://maps.gsi.go.jp/#11/36.755296/137.756751/][36.755296,137.756751]] |  |
+| 2721 | [[https://yamagoya.hakubakousha.com/][白馬岳頂上宿舎]] | 長野 | [[https://maps.gsi.go.jp/#11/36.752819/137.753486/][36.752819,137.753486]] |  |
+| 2724 | [[https://yamagoya.hakubakousha.com/][天狗山荘]] | 長野 | [[https://maps.gsi.go.jp/#11/36.720924/137.753325/][36.720924,137.753325]] |  |
+| 2461 | [[https://funakubogoya.net/][船窪小屋]] | 長野 | [[https://maps.gsi.go.jp/#11/36.506473/137.695262/][36.506473,137.695262]] |  |
+| 2865 | [[https://www.gorougoya.com/][野口五郎小屋]] | 長野 | [[https://maps.gsi.go.jp/#11/36.436243/137.638247/][36.436243,137.638247]] |  |
 | 2280 | [[https://www.sugorokugoya.com/kagami/][鏡平山荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.345826/137.603848/][36.345826,137.603848]] |  |
 | 2548 | [[https://www.sugorokugoya.com/sugoroku/][双六小屋]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.369495/137.601625/][36.369495,137.601625]] |  |
 | 1099 | [[https://www.hotel-hotaka.jp/][ホテル穂高]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.285137/137.574947/][36.285137,137.574947]] |  |
@@ -48,7 +55,15 @@
 | 1767 | [[https://asahisou.com/][濁河温泉 朝日荘]] | 岐阜 | [[https://maps.gsi.go.jp/#11/35.923442/137.448988/][35.923442,137.448988]] |  |
 | 1019 | [[https://hyotenkanomori.net/][秋神温泉旅館]] | 岐阜 | [[https://maps.gsi.go.jp/#11/35.986029/137.401419/][35.986029,137.401419]] |  |
 | 1233 | [[http://yesno-jp.com/][YES・NO]] | 岐阜 | [[https://maps.gsi.go.jp/#11/36.002431/137.359890/][36.002431,137.359890]] |  |
+| 2490 | [[https://www.hakuba-sanso.co.jp/yamagoya/goryusanso.html][五竜山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.663656/137.760196/][36.663656,137.760196]] |  |
+| 2464 | [[https://www.hakuba-sanso.co.jp/yamagoya/kiretto.html][キレット小屋]] | 富山 | [[https://maps.gsi.go.jp/#11/36.633519/137.752692/][36.633519,137.752692]] |  |
+| 2410 | [[https://www.kasimayari.jp/][冷池山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.602896/137.748554/][36.602896,137.748554]] |  |
+| 2460 | [[https://www.kasimayari.jp/][種池山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.587925/137.735506/][36.587925,137.735506]] |  |
+| 1550 | [[https://tsugami.info/][栂海山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.907730/137.717731/][36.907730,137.717731]] |  |
+| 2144 | [[https://www.asahigoya.net/][朝日小屋]] | 富山 | [[https://maps.gsi.go.jp/#11/36.824896/137.717549/][36.824896,137.717549]] |  |
+| 2458 | [[https://www.kasimayari.jp/][新越山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.571628/137.703121/][36.571628,137.703121]] |  |
 | 2533 | [[http://www.harinoki.com/][針ノ木小屋]] | 富山 | [[https://maps.gsi.go.jp/#11/36.537115/137.694077/][36.537115,137.694077]] |  |
+| 2526 | [[https://ja.wikipedia.org/wiki/%E7%83%8F%E5%B8%BD%E5%AD%90%E5%B0%8F%E5%B1%8B][烏帽子小屋]] | 富山 | [[https://maps.gsi.go.jp/#11/36.470381/137.656031/][36.470381,137.656031]] |  |
 | 1483 | [[http://www.kuroyon.com/][ロッジくろよん]] | 富山 | [[https://maps.gsi.go.jp/#11/36.557958/137.655510/][36.557958,137.655510]] |  |
 | 2790 | [[https://kuranosukesanso.jimdofree.com/][内蔵助山荘]] | 富山 | [[https://maps.gsi.go.jp/#11/36.588410/137.622806/][36.588410,137.622806]] |  |
 | 2467 | [[https://ww3.ctt.ne.jp/~tsurugis/][剱澤小屋]] | 富山 | [[https://maps.gsi.go.jp/#11/36.604874/137.615938/][36.604874,137.615938]] |  |
